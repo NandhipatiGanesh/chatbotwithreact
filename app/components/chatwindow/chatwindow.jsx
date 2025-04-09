@@ -97,7 +97,7 @@ export default function ChatWindow() {
                       </div>
                     </div>
                     <span className="intercom-11cvbht e1jqii292">
-                      {msg.type === 'outgoing' ? 'You' : 'DecentrialzAI'}
+                      {msg.type === 'outgoing' ? 'You' : 'AI'}
                     </span>
                   </div>
                   <div tabIndex="-1" className="intercom-18ztwyf er4a1r20">
