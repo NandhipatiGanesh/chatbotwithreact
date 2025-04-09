@@ -91,7 +91,7 @@ export default function ChatWindow() {
                               ? '/favicon.ico'
                               : '/favicon.ico'
                           }
-                          alt={msg.type === 'outgoing' ? 'You' : 'DecentrialzAI'}
+                          alt={msg.type === 'outgoing' ? 'You' : 'AI'}
                           className="w-8 h-8 rounded-full"
                         />
                       </div>
